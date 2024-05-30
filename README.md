@@ -18,7 +18,7 @@ Check out the [DEMO](https://vladarskyi.github.io/todo-app-on-react-using-api/) 
 - [Contributing](#contributing)
 - [License](#license)
 
-## introduction
+## Introduction
 
 This project is a standalone todo application built with React. It allows users to manage their tasks by adding, deleting, toggling, and renaming todos. The application communicates with an API to persist data and ensure a seamless user experience.
 
