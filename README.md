@@ -4,7 +4,7 @@ Welcome to the Todo App project! This project focusing on implementing a fully f
 
 ## Demo
 
-Check out the [DEMO]() to see it in action!
+Check out the [DEMO](https://vladarskyi.github.io/todo-app-on-react-using-api/) to see it in action!
 
 ## Table of Contents
 
@@ -78,7 +78,7 @@ This will start the development server and open the application in your default 
 The project follows a standard folder structure for better organization:
 
   ```graphql
-bike-store-landing-page/
+todo-app-on-react-using-api/
 │
 ├── src/                 # Source files
 │   ├── api/             # Functions for interacting with the API
